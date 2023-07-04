@@ -1,0 +1,7 @@
+asgiref
+Django
+djangorestframework
+djangorestframework-gis
+stripe
+psycopg2
+drf-yasg
